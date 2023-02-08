@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: techdocs-testing-998
+  description: Description of techdocs-testing-998
+  annotations:
+    github.com/project-slug: leeba-julius/techdocs-testing-998
+spec:
+  type: service
+  owner: backstageproduct-PROD-ZA-Users
+  lifecycle: development
